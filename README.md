@@ -1,7 +1,36 @@
-## Hi there 👋
+ Hi, I'm Moonna 👋
 
-<!--
-**Moonna-Shehzadi908/Moonna-Shehzadi908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+
+🎓 Computer Science Student
+
+💻 Aspiring Full Stack Developer
+
+🌱 Currently learning React, FastAPI, PostgreSQL, and Supabase
+
+🚀 Building real-world web applications and modern software solutions
+
+## Technologies
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Supabase
+* FastAPI
+* PostgreSQL
+* Git & GitHub
+
+## Current Projects
+
+### Nexora (Social Media Platform)
+
+A modern social networking platform inspired by Instagram, Threads, X, Facebook, and LinkedIn.
+
+## Connect With Me
+
+* LinkedIn
+* GitHub
 
 Here are some ideas to get you started:
 
