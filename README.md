@@ -23,7 +23,7 @@ About Me
 
 ## Current Projects
 
-### Nexora (Social Media Platform)
+### ConnectSpere(Social Media Platform)
 
 A modern social networking platform inspired by Instagram, Threads, X, Facebook, and LinkedIn.
 
