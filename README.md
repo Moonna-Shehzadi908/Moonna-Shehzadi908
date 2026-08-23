@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moonna Shehzadi
+#  Hi, I'm Moonna Shehzadi
 
 ### Full-Stack Web Developer | React • TypeScript • Django • REST APIs | AI Project Developer
 
