@@ -1,118 +1,85 @@
 # 👋 Hi, I'm Moonna Shehzadi
 
-### Full Stack Web Developer | React • TypeScript • Node.js • Supabase | AI Project Developer
+### Full-Stack Web Developer | React • TypeScript • Django • REST APIs | AI Project Developer
 
-I'm a Computer Science graduate passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into practical software solutions while continuously learning new technologies.
+Computer Science graduate passionate about building modern, responsive, and user-focused web applications. I enjoy turning ideas into practical software solutions and continuously improving my development skills.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 BS Computer Science Graduate
-- 💻 Full Stack Web Developer
-- 🌐 Frontend: React, TypeScript, JavaScript
-- ⚙️ Backend: Node.js, REST APIs, FastAPI (Learning)
-- 🗄️ Database: Supabase, PostgreSQL
-- 🤖 AI Project Developer
-- 🚀 Passionate about solving real-world problems through technology
-- 📚 Always learning new tools and frameworks
+- 💻 Full-Stack Web Developer
+- 🌐 Frontend: React, TypeScript, JavaScript, HTML5, CSS3
+- ⚙️ Backend: Django, Django REST Framework, REST APIs
+- 🗄️ Database: PostgreSQL, Supabase
+- 🔐 Authentication: JWT
+- 🤖 AI & Computer Vision: Python, OpenCV, MediaPipe, YOLO
+- 🚀 Interested in building scalable and real-world applications
 
 ---
 
-## 🏆 Highlight Project
+## 💼 Internship
+
+### Full-Stack Web Developer Intern — Zynvex Solutions
+
+Working on full-stack web development using React, TypeScript, Django, Django REST Framework, REST APIs, and PostgreSQL.
+
+Currently developing **SkillBridge**, a smart skill and career development platform.
+
+---
+
+## 🏆 Featured Project
 
 ### 🥇 Proctor AI
 
-AI-powered Online Examination Proctoring System developed as our Final Year Project.
+AI-Based Online Examination Proctoring System developed as my Final Year Project.
 
-**Achievements**
+**Achievements:**
+- 🥇 1st Position — University Final Year Project Competition
+- 🥇 1st Position — ETL AI Project Competition
 
-- 🥇 1st Position – AI Project Category (ETL FYP Competition)
-- 🥇 1st Position – University Final Year Project Competition
-
-My Contributions
-
-- React + TypeScript Frontend Development
-- Backend Integration
-- REST API Integration
-- Supabase Database
-- Face Detection Module
-- Object Detection Module
-- UI/UX Design
-- Testing & Debugging
-
-👉 Showcase Repository
-
-**Proctor-AI-Showcase**
+**Contributions:** React + TypeScript frontend, REST API integration, Supabase, face detection, object detection, UI/UX, testing and debugging.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Project
 
 ### ConnectSphere
 
-A modern social media platform inspired by Instagram, Threads, Facebook, X (Twitter), and LinkedIn.
+A full-stack social networking platform built with:
 
-Technologies:
+- React + TypeScript
+- Django + Django REST Framework
+- REST APIs
+- PostgreSQL / Supabase
 
-- React
-- TypeScript
-- Supabase
-- REST API
+Features include authentication, profiles, posts, followers, notifications, messaging, and moderation.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+**Frontend:** React • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+**Backend:** Django • Django REST Framework • REST APIs • JWT
 
-### Backend
+**Database:** PostgreSQL • Supabase
 
-- Node.js
-- Express.js
-- REST API
-- FastAPI (Learning)
-
-### Database
-
-- Supabase
-- PostgreSQL
-
-### AI & Tools
-
-- Python
-- OpenCV
-- MediaPipe
-- YOLO
-- Git
-- GitHub
-- VS Code
+**AI & Tools:** Python • OpenCV • MediaPipe • YOLO • Git • GitHub • VS Code
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React
-- FastAPI
-- PostgreSQL
-- System Design
-- Cloud Deployment
+Advanced React & TypeScript • Django REST Framework • PostgreSQL • System Design • Cloud Deployment
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 🌐 Fiverr
+💼 LinkedIn • 💻 GitHub • 🌐 Fiverr
 
 ---
 
-⭐ I enjoy building clean, scalable, and impactful software that solves real-world problems.
+⭐ Building practical software solutions with a focus on clean, scalable, and user-friendly applications.
