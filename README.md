@@ -27,7 +27,14 @@ Working on full-stack web development using React, TypeScript, Django, Django RE
 
 Currently developing **SkillBridge**, a smart skill and career development platform.
 
+
 ---
+ ## 🚀 Current Project
+### SkillBridge — Smart Skill & Career Development Platform
+
+A full-stack platform designed to help learners discover skills, access learning resources, track their progress, and explore career opportunities.
+
+Tech Stack: React • TypeScript • Tailwind CSS • Django • Django REST Framework • PostgreSQL • JWT
 
 ## 🏆 Featured Project
 
@@ -43,7 +50,7 @@ AI-Based Online Examination Proctoring System developed as my Final Year Project
 
 ---
 
-## 🚀 Current Project
+## 🚀 Other Project
 
 ### ConnectSphere
 
